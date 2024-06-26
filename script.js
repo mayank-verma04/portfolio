@@ -24,7 +24,7 @@ document
     var form = event.target;
     var formData = new FormData(form);
 
-    fetch("https://formspree.io/f/xbjnnzlj", {
+    fetch("https://formspree.io/f/xleqqpdl", {
       method: "POST",
       headers: {
         Accept: "application/json",
